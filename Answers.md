@@ -47,4 +47,17 @@
     
     Least Astonishment: a progrma or user interface should always respond in the way to least likely astonish the user.
 
-7. 
+7.  1)  If a hospital or government organization handled sensitive information such as medical history or tax and social security
+    information, confidentiality would be the highest requirement. 
+    2)  Similarly, in a hospital, patient information about allergies or high risk medications would be integral to patient saftey, making the integrity of this information have the highest inmportantance.
+    3)  If a coffee shops menu is updated through such a service, employees who would use the computer to select orders and drinks and process payments would need that system and documents to be readily available.
+
+8. 1)   Confidentiality: low; since the info is public access. Integrity: high; since it should be kept accurate. Availability: mild; to keep accessible but also making sure that the infomation is still accurate. 
+    2)  Confidentiality: High; highly sensitive documents. Integrity: mild; maintain accuracy without leakage. Availability: low; slow or limited access isnt as bad as leaked classified documents. 
+    3)  confidentiality: low; rotuine information. Integrity: mild; maintain accurate info with low risk. Availability: high; in order to keep the buisness fully functioning at its best.
+    4)  For both: Confidentiality should be the highest priority for both sensitive and adminstrative information. Integrity should be mild in order to both maintain accuracy since it is a information system. Availability would be low as ther is likely a bigger threat of data leakage. 
+    5) Confidentiality: low; it is an energy plant so leak of data isnt a high concern. Integrity: mild; as statisitcs and logged readings should be monitored heavily and accuracy maintained. Availability: High; as this information should be readily accesible in case of disaster circumstances. 
+
+9.  root: access to money in safe. Branch 1: explosives. Branch 2: cracking the code -> leaf 1: having the code prior. Leaf 2: threatening/harming teller/worker for combination
+
+10. 
