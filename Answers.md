@@ -60,4 +60,12 @@
 
 9.  root: access to money in safe. Branch 1: explosives. Branch 2: cracking the code -> leaf 1: having the code prior. Leaf 2: threatening/harming teller/worker for combination
 
-10. 
+10. It seems that dwRet is checked if access is allowed, then if and only if it says its denied, then it wont persist. But if function returns anything else besides that statement,  itll allow it. I think the fix would be to originally deny the access until something provided were to grant access. 
+
+    ``` C
+    DWORD dwRet = IsAccessAllowed(...);
+    if (dwRet == Success) { // Security check passed.
+    // Inform user that access is accepted. } else {
+    // access denied. inform of denial
+    }
+    ```
