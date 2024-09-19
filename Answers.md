@@ -1,17 +1,15 @@
 # CECS 378 Reading Assignment: Introduction to Computer Security
 
-1.  Computer Security deals with computer related assests that may be subject to various threats and or harm that
-    devises many protocols to protect said assets. 
+1.  Computer Security deals with computer related assests that may be subject to various threats and or harm, leading to
+    devisions of many protocols to protect said assets. 
 
 2.  Passive attacks are in a similar field as spying, such as monitoring and or obtaining private information
     Active attacks actively modify data that is being passed through whether its being redirected, stored, or changed. 
 
-3.  An Attack Surface is basically a reachable exploitation of a vulnerablity, whether it be through means of
-    network, software or human attacks.
+3.  An Attack Surface is basically a reachable exploitation of a vulnerablity, whether it be through means of a network, software or human attacks.
     A Attack Tree is more like a plan or blueprint for how an attacker will/could infiltrate/exploit a vulnerability. Like the data structure: there are nodes, branches, and leaves that all represent ways an attacker may reach their goal(the root). 
 
-4.  Confidentiality:  At most, the two risks of confidentiality are the users pin and their card itself, if a user 
-    were to lose/forget either of these things they wouldnt be able to access an ATM and if lost, their funds may be at risk if an attacker has both. This risk could be considered low since most ATMS have a pin shield, and cards can be cancelled if lost. 
+4.  Confidentiality:  At most, the two risks of confidentiality are the users pin and their card itself, if a user were to lose/forget either of these things they wouldnt be able to access an ATM and if lost, their funds may be at risk if an attacker has both. This risk could be considered low since most ATMS have a pin shield, and cards can be cancelled if lost. 
     Integrity: A loss of integrity could be slightly worse, if an attacker were to obtain more than just a pin and a card, they could theoretically get bank information access which could lead to many other long term fradulent issues. Risk level should be considered mild.
     Availability: The hightest level of risk that should be considered, given the entire purpose of an ATM is to allow a user to access their funds, if service is denied or servers are down, the entire machine becomes obselote. 
 
